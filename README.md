@@ -13,3 +13,4 @@
 | Big Data   | Hadoop, Hive, Spark, Streaming, Kafka, Presto, MySQL, Springboot |
 | Data analysis & mining   | Jupyterlab, EDA, Dashboard, Scikit-Learn |
 | Blockchain | Crypto, Ethereum, Hardhat, Smart Contract, Web3.js |
+| Communication | Mandarin(fluent), English(write fluent, spoken basic), Cantonese(basic) |
