@@ -14,3 +14,4 @@
 | Data analysis & mining   | Jupyterlab, EDA, Dashboard, Scikit-Learn |
 | Blockchain | Crypto, Ethereum, SmartContract, Web3, Hardhat |
 | Communication | Mandarin(fluent), English(write fluent, spoken basic), Cantonese(basic) |
+
