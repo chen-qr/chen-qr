@@ -11,7 +11,7 @@
 | ----------- | ----------- |
 | Programming      | Java, Python, Scala, SQL, Scala, JavaScript, Solidity, Rust|
 | Big Data   | Hadoop, Hive, Spark, Hive, SparkStreaming, Kafka, Presto, MySQL, Presto, Springboot |
-| Data analysis & mining   | Jupyterlab, EDA, Dashboard, Scikit-Learn |
+| Data analysis & mining   | Pandas, EDA, Scikit-Learn |
 | Blockchain | Crypto, Ethereum, SmartContract, Web3, Hardhat |
 | Communication | Mandarin(fluent), English(write fluent, spoken basic), Cantonese(basic) |
 
