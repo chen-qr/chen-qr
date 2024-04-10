@@ -9,7 +9,7 @@
 
 | Technology      | Skill |
 | ----------- | ----------- |
-| Programming      | Java, Python, Scala, SQL, Scala, JavaScript, Solidity, Rust|
+| Programming      | Java, Python, Scala, SQL, Scala, JavaScript, Solidity, Rust, CI/CD|
 | Big Data   | Hadoop, Hive, Spark, Hive, SparkStreaming, Kafka, Presto, MySQL, Presto, Springboot |
 | Data analysis & mining   | Pandas, EDA, Scikit-Learn |
 | Blockchain | Crypto, Ethereum, SmartContract, Web3, Hardhat |
