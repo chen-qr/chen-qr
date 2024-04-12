@@ -10,7 +10,7 @@
 
 | Technology      | Skill |
 | ----------- | ----------- |
-| Programming      | Python, Java, Scala, SQL, Solidity, TypeScript, Docker, CI/CD|
+| Programming      | Python, Java, Scala, SQL, Solidity, TypeScript, CI/CD|
 | BigData   | DataCapturing, RealTime, Pipelines, Warehouse, DataAPIs, DataAnalysis |
 | FinTech | Crypto, SmartContract, Web3 |
 | Communication | Mandarin(fluent), English(write fluent, spoken basic), Cantonese(basic) |
