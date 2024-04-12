@@ -15,3 +15,4 @@
 | FinTech | Crypto, SmartContract, Web3 |
 | Communication | Mandarin(fluent), English(write fluent, spoken basic), Cantonese(basic) |
 
+[➡️ see more details about my skills](https://chenqirong.tech/skills.html)
