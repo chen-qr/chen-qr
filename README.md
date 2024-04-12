@@ -6,7 +6,7 @@
 | My LinkedIn   | https://www.linkedin.com/in/alexchenqr/        |
 | My DockerHub   | https://hub.docker.com/u/alexchenqr        |
 
-### Technology Skills
+### Skills
 
 | Technology      | Skill |
 | ----------- | ----------- |
