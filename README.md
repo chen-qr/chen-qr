@@ -11,8 +11,7 @@
 | Technology      | Skill |
 | ----------- | ----------- |
 | Programming      | Python, Java, Scala, SQL, JavaScript, Solidity, Docker, CI/CD|
-| Big Data   | Hadoop, Hive, Spark, Hive, SparkStreaming, Kafka, Presto, MySQL, Presto, Springboot |
-| Data analysis & mining   | Pandas, EDA, Scikit-Learn |
-| Blockchain | Crypto, Ethereum, SmartContract, Web3, Hardhat |
+| Big Data   | DataCapturing, RealTimeAnalytic, Pipelines, DataWarehouse, DataAPIs |
+| FinTech | Crypto, SmartContract, Web3 |
 | Communication | Mandarin(fluent), English(write fluent, spoken basic), Cantonese(basic) |
 
