@@ -1,6 +1,6 @@
 ### About
 
-👋 My name is Alex, and I'm currently seeking employment in the Crypto and FinTech industries in Hong Kong.
+👋 My name is Alex, and I'm currently seeking employment in the FinTech industry in Hong Kong.
 
 | Site      | Link |
 | ----------- | ----------- |
