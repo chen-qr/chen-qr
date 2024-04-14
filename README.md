@@ -1,12 +1,14 @@
-### My Profiles
+### About
 
-| Site      | Url |
+👋 My name is Alex, and I'm currently seeking employment in the Crypto and FinTech industries in Hong Kong.
+
+| Site      | Link |
 | ----------- | ----------- |
 | My Blog      | https://chenqirong.tech       |
 | My LinkedIn   | https://www.linkedin.com/in/alexchenqr/        |
 | My DockerHub   | https://hub.docker.com/u/alexchenqr        |
 
-### My Skills
+### Skills
 
 | Technology      | Skill |
 | ----------- | ----------- |
