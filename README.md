@@ -15,3 +15,8 @@
 | Programming      | Python, Java, Scala, SQL, Solidity, TypeScript, CI/CD|
 | BigData   | Real-Time, Pipelines, Data Warehouse, Data APIs, Data Analysis |
 | FinTech | Crypto, Smart Contract, Web3 |
+
+### Projects
+
+- [Built data platform for 400 million user product](https://chenqirong.tech/p-data-platform.html)
+- [Won First Place at Web3 Hackathon](https://chenqirong.tech/web3-hackathon.html)
