@@ -4,7 +4,7 @@
 
 - Email: alex.chenqr@gmail.com
 - Tel/WeChat/Whatsapp: (+86) 188-9865-0244
-- Sites: [My Blog(chenqirong.tech)](https://chenqirong.tech) | [My LinkedIn](https://www.linkedin.com/in/alexchenqr/) | [My DockerHub](https://hub.docker.com/u/alexchenqr)
+- Sites: [My Blog(chenqirong.tech)](https://chenqirong.tech) | [LinkedIn](https://www.linkedin.com/in/alexchenqr/) | [DockerHub](https://hub.docker.com/u/alexchenqr)
 
 ### Skills
 
