@@ -16,5 +16,5 @@
 
 ### Projects
 
-- [Tencent | Built Data Services of data platform for product with 400 million users](https://chenqirong.tech/p-data-platform.html)
+- [Tencent | Built data services for product with 400 million users](https://chenqirong.tech/p-data-platform.html)
 - [Built DApp and won first place at Web3 Hackathon](https://chenqirong.tech/web3-hackathon.html)
