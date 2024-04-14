@@ -2,11 +2,9 @@
 
 👋 My name is Alex, and I'm currently seeking employment in the FinTech industry in Hong Kong.
 
-| Site      | Link |
-| ----------- | ----------- |
-| My Blog      | https://chenqirong.tech       |
-| My LinkedIn   | https://www.linkedin.com/in/alexchenqr/        |
-| My DockerHub   | https://hub.docker.com/u/alexchenqr        |
+- Email: alex.chenqr@gmail.com
+- Tel/WeChat/Whatsapp: (+86) 188-9865-0244
+- Sites: [My Blog(chenqirong.tech)](https://chenqirong.tech) | [My LinkedIn](https://www.linkedin.com/in/alexchenqr/) | [My DockerHub](https://hub.docker.com/u/alexchenqr)
 
 ### Skills
 
