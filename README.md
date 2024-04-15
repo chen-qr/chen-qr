@@ -10,7 +10,7 @@
 
 | Technology      | Skill |
 | ----------- | ----------- |
-| Programming      | Python, Java, Scala, SQL, Solidity, TypeScript, CI/CD|
+| Programming      | Python, Java, Scala, TypeScript, Solidity, SQL, CI/CD|
 | BigData   | Real-Time, Pipelines, Data Warehouse, Data APIs, Data Analysis |
 | FinTech | Crypto, Smart Contract, Web3 |
 
