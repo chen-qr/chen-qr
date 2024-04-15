@@ -1,6 +1,6 @@
 ### About
 
-👋 My name is Alex, as a Senior Software Engineer and Senior Data Engineer at Tencent, I am currently seeking a position in the FinTech industry in Hong Kong.
+👋 My name is Alex, as a Senior Engineer at Tencent, I am currently seeking a position in the FinTech industry in Hong Kong.
 
 - Email: alex.chenqr@gmail.com
 - ☎️/WeChat/Whatsapp: (+86) 188-9865-0244
