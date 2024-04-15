@@ -3,7 +3,7 @@
 👋 My name is Alex, and I'm currently seeking employment in the FinTech industry in Hong Kong.
 
 - Email: alex.chenqr@gmail.com
-- Tel/WeChat/Whatsapp: (+86) 188-9865-0244
+- ☎️/WeChat/Whatsapp (+86) 188-9865-0244
 - Links: [My Blog(chenqirong.tech)](https://chenqirong.tech) | [LinkedIn](https://www.linkedin.com/in/alexchenqr/) | [DockerHub](https://hub.docker.com/u/alexchenqr)
 
 ### Skills
