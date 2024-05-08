@@ -11,7 +11,7 @@
 | ----------- | ----------- |
 | Programming      | Java, Python, Scala, TypeScript, Solidity, SQL, CI/CD|
 | BigData   | Microservices, Real-Time Computing, Data Warehouse|
-| FinTech | Crypto, Web3 |
+| FinTech | Web3 |
 
 ### Projects
 
