@@ -10,7 +10,7 @@
 | Technology      | Skill |
 | ----------- | ----------- |
 | Programming      | Java, Python, Scala, Solidity, TypeScript, CI/CD|
-| BigData   | Microservices, Real-Time Computing, Data Warehouse|
+| BigData   | Microservices, Real-Time Computing, Data Warehouse, Data Capturing|
 | FinTech | Web3 |
 
 ### Projects
