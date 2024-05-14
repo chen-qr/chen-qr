@@ -28,7 +28,13 @@
 
 | Repositories      | Introduction |
 | ----------- | ----------- |
-| [InspirationalBot](https://github.com/chen-qr/InspirationalBot)      | Receive and process Telegram messages in real time. |
-| [MyBlogServe](https://github.com/chen-qr/MyBlogServe)      | Deploy personal static resource blog service. |
+| [InspirationalBot](https://github.com/chen-qr/InspirationalBot)      | 个人博客后台服务。SpringBoot的简单应用，搭建静态资源服务器。 |
+| [MyBlogServe](https://github.com/chen-qr/MyBlogServe)      | Telegram机器人后台，实时接收和响应聊天消息。 |
 
+#### Web3
 
+*Using Solidity/EVM/Hardhat*
+
+| Repositories      | Introduction |
+| ----------- | ----------- |
+| [Roulette-dApp](https://github.com/chen-qr/Roulette-dApp)      | 轮盘游戏智能合约DApp。ERC20、合约间调用、预言机随机数、Web3与合约交互。 |
