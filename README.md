@@ -20,7 +20,7 @@
 
 ### 3. My Github Repositories
 
-**The repositories is only for technical learning, no sensitive data, no work content!**
+*The repositories is **only for technical learning**, no sensitive data, no work content!*
 
 #### Microservice
 
