@@ -18,7 +18,7 @@
 - [Tencent | Built data services for product with 400 million users](https://chenqirong.tech/p-data-platform.html)
 - [Built DApp and won first place at Web3 Hackathon](https://chenqirong.tech/web3-hackathon.html)
 
-### 3. My Github Repositories
+### 3. My Repositories 个人仓库
 
 *The repositories is **only for technical learning**, no sensitive data, no work content! 仓库代码**仅用于技术学习交流**，不涉及任何敏感数据，不涉及任何工作内容！*
 
