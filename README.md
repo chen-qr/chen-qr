@@ -32,7 +32,7 @@
 
 | Key Points  | Repositories  | Introduction |
 | ----------- | ----------- | ----------- |
-| ERC20、合约间交互、Hardhat模版 | [Roulette-dApp](https://github.com/chen-qr/Roulette-dApp)  | 轮盘游戏智能合约DApp|
+| ERC20、合约开发和测试、多合约间交互 | [Roulette-dApp](https://github.com/chen-qr/Roulette-dApp)  | 轮盘游戏智能合约DApp|
 | 合约事务机制、闪电贷 | [FlashLoanUsage](https://github.com/chen-qr/FlashLoanUsage) | 闪电贷使用例子 | 
 
 #### 3. Data Capturing *using Python*
