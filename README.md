@@ -25,4 +25,4 @@
 | Technical Field | components | Repositories |
 | ----------- | ----------- | ----------- |
 | Microservice | Java/Spring | [InspirationalBot](https://github.com/chen-qr/InspirationalBot) |
-| Microservice | Java/Spring | [MyBlogServe](https://github.com/chen-qr/MyBlogServe) |
+|  |  | [MyBlogServe](https://github.com/chen-qr/MyBlogServe) |
