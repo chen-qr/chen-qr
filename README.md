@@ -2,8 +2,7 @@
 
 👋 My name is Alex, as a Senior Engineer at Tencent, I am currently seeking a position in FinTech in Hong Kong.
 
-- LinkedIn: [Alex](https://www.linkedin.com/in/alexchenqr/) | Email: alex.chenqr@gmail.com
-- WeChat/WhatsApp: (+86) 188-9865-0244
+您好，我叫Alex，腾讯高级数据工程师，目前正在寻找香港FinTech的技术研发工作。
 
 ### 1. Skills
 
