@@ -21,16 +21,14 @@
 
 *Only for technical learning, no sensitive data, no work content! 仅用于技术学习交流，不涉及任何敏感数据，不涉及任何工作内容！*
 
-#### I. Microservice 微服务 Using Java/SpringBoot
+#### I. Microservice Using Java/SpringBoot
 
 | Repositories      | Introduction |
 | ----------- | ----------- |
 | [InspirationalBot](https://github.com/chen-qr/InspirationalBot)      | 个人博客后台服务。SpringBoot的简单应用，搭建静态资源服务器。 |
 | [MyBlogServe](https://github.com/chen-qr/MyBlogServe)      | Telegram机器人后台，实时接收和响应聊天消息。 |
 
-#### Web3
-
-*Using Solidity/EVM/Hardhat*
+#### II. Web3 Using Solidity/EVM/Hardhat
 
 | Repositories      | Introduction |
 | ----------- | ----------- |
