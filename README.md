@@ -19,7 +19,7 @@
 
 ### 3. My Repositories 个人仓库
 
-*The repositories is **only for technical learning**, no sensitive data, no work content! 仓库代码**仅用于技术学习交流**，不涉及任何敏感数据，不涉及任何工作内容！*
+*The repositories is only for technical learning, no sensitive data, no work content! 仓库代码仅用于技术学习交流，不涉及任何敏感数据，不涉及任何工作内容！*
 
 #### Microservice 微服务
 
