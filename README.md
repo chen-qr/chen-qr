@@ -25,14 +25,15 @@
 
 | Key Points  | Repositories      | Introduction |
 | ----------- | ----------- | ----------- |
-| SpringBoot模版 |  [MyBlogServe](https://github.com/chen-qr/MyBlogServe)     | 个人博客后台服务。|
-| 服务间通信，Webhook/LongPool |  [InspirationalBot](https://github.com/chen-qr/InspirationalBot)      | Telegram机器人后台，实时接收和响应聊天消息。 |
+| SpringBoot模版 |  [MyBlogServe](https://github.com/chen-qr/MyBlogServe)     | 个人博客后台服务|
+| 服务间通信，Webhook/LongPool |  [InspirationalBot](https://github.com/chen-qr/InspirationalBot)      | Telegram机器人后台，实时接收和响应聊天消息 |
 
 #### 2. Web3 *using Solidity/EVM/Hardhat*
 
 | Key Points  | Repositories  | Introduction |
 | ----------- | ----------- | ----------- |
-| ERC20、合约间交互、Hardhat模版 | [Roulette-dApp](https://github.com/chen-qr/Roulette-dApp)  | 轮盘游戏智能合约DApp。|
+| ERC20、合约间交互、Hardhat模版 | [Roulette-dApp](https://github.com/chen-qr/Roulette-dApp)  | 轮盘游戏智能合约DApp|
+| 合约事务机制、闪电贷 | [FlashLoanUsage](https://github.com/chen-qr/FlashLoanUsage) | 闪电贷使用例子 | 
 
 #### 3. Data Capturing *using Python*
 
