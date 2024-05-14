@@ -24,7 +24,7 @@
 
 #### Microservice
 
-Using Java/SpringBoot
+*Using Java/SpringBoot*
 
 - [InspirationalBot](https://github.com/chen-qr/InspirationalBot): Receive and process Telegram messages in real time.
 - [MyBlogServe](https://github.com/chen-qr/MyBlogServe): Deploy personal static resource blog service.
