@@ -23,10 +23,10 @@
 
 #### I. Microservice *using Java/SpringBoot*
 
-| Repositories      | Introduction | Key Points | 
+| Key Points  | Repositories      | Introduction |
 | ----------- | ----------- | ----------- |
-|  [MyBlogServe](https://github.com/chen-qr/MyBlogServe)     | 个人博客后台服务。| Spring模版 |
-|  [InspirationalBot](https://github.com/chen-qr/InspirationalBot)      | Telegram机器人后台，实时接收和响应聊天消息。 | 服务间通信，Webhook/LongPool |
+| Spring模版 |  [MyBlogServe](https://github.com/chen-qr/MyBlogServe)     | 个人博客后台服务。|
+| 服务间通信，Webhook/LongPool |  [InspirationalBot](https://github.com/chen-qr/InspirationalBot)      | Telegram机器人后台，实时接收和响应聊天消息。 |
 
 #### II. Web3 *using Solidity/EVM/Hardhat*
 
