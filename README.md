@@ -30,9 +30,9 @@
 
 #### 2. Web3 *using Solidity/EVM/Hardhat*
 
-| Repositories      | Introduction |
-| ----------- | ----------- |
-| [Roulette-dApp](https://github.com/chen-qr/Roulette-dApp)      | 轮盘游戏智能合约DApp。ERC20、合约间调用、预言机随机数、Web3与合约交互。 |
+| Key Points  | Repositories  | Introduction |
+| ----------- | ----------- | ----------- |
+| ERC20、合约间交互、Hardhat模版 | [Roulette-dApp](https://github.com/chen-qr/Roulette-dApp)  | 轮盘游戏智能合约DApp。|
 
 #### 3. Data Capturing *using Python*
 
