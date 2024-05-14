@@ -18,12 +18,12 @@
 - [Tencent | Built data services for product with 400 million users](https://chenqirong.tech/p-data-platform.html)
 - [Built DApp and won first place at Web3 Hackathon](https://chenqirong.tech/web3-hackathon.html)
 
-### My Github repositories
+<!-- ### My Github repositories
 
 *The repositories is only for technical learning, no sensitive data, no work content!*
 
 - Microservice
     - Java/SpringBoot: 
         - [InspirationalBot](https://github.com/chen-qr/InspirationalBot): Receive and process Telegram messages in real time.
-        - [MyBlogServe](https://github.com/chen-qr/MyBlogServe): Deploy personal static resource blog service.
+        - [MyBlogServe](https://github.com/chen-qr/MyBlogServe): Deploy personal static resource blog service. -->
 
