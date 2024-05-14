@@ -18,11 +18,11 @@
 - [Tencent | Built data services for product with 400 million users](https://chenqirong.tech/p-data-platform.html)
 - [Built DApp and won first place at Web3 Hackathon](https://chenqirong.tech/web3-hackathon.html)
 
-### My Github repositories
+<!-- ### My Github repositories
 
 *The repositories is only for technical learning, no sensitive data, no work content!*
 
 | Technical Field | components | Repositories |
 | ----------- | ----------- | ----------- |
 | Microservice | Java/Spring | [InspirationalBot](https://github.com/chen-qr/InspirationalBot) |
-|  |  | [MyBlogServe](https://github.com/chen-qr/MyBlogServe) |
+|  |  | [MyBlogServe](https://github.com/chen-qr/MyBlogServe) | -->
