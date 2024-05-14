@@ -23,7 +23,7 @@
 *The repositories is only for technical learning, no sensitive data, no work content!*
 
 - Microservice
-    - Java/Spring
-        - [InspirationalBot](https://github.com/chen-qr/InspirationalBot)
-        - [MyBlogServe](https://github.com/chen-qr/MyBlogServe)
+    - Java/SpringBoot: 
+        - [InspirationalBot](https://github.com/chen-qr/InspirationalBot): Receive and process Telegram messages in real time.
+        - [MyBlogServe](https://github.com/chen-qr/MyBlogServe): Deploy personal static resource blog service.
 
