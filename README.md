@@ -34,6 +34,7 @@
 | ----------- | ----------- | ----------- |
 | ERC20、合约开发和测试、多合约间交互 | [Roulette-dApp](https://github.com/chen-qr/Roulette-dApp)  | 轮盘游戏智能合约DApp|
 | 合约事务机制、闪电贷 | [FlashLoanUsage](https://github.com/chen-qr/FlashLoanUsage) | 闪电贷使用例子 | 
+| 重入攻击 | [SmartContractSafetyLists](https://github.com/chen-qr/SmartContractSafetyLists) | 智能合约安全示例 |
 
 #### 3. Data Capturing *using Python*
 
