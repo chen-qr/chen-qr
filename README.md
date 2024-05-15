@@ -25,7 +25,7 @@
 
 | Key Points  | Repositories  | Introduction |
 | ----------- | ----------- | ----------- |
-| EVM合约开发、合约测试、ERC20、多合约间调用 | [Roulette-dApp](https://github.com/chen-qr/Roulette-dApp)  | 轮盘游戏智能合约DApp|
+| EVM合约开发、合约测试、合约部署、ERC20、多合约间调用 | [Roulette-dApp](https://github.com/chen-qr/Roulette-dApp)  | 轮盘游戏智能合约DApp|
 | 重入攻击、抢先交易攻击、可预测随机数攻击、权限控制问题、短地址攻击、整数溢出和下溢| [SmartContractSafetyLists](https://github.com/chen-qr/SmartContractSafetyLists) | 智能合约安全整理 |
 | 合约事务机制、闪电贷 | [FlashLoanUsage](https://github.com/chen-qr/FlashLoanUsage) | 闪电贷使用示例 | 
 
