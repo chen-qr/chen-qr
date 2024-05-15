@@ -27,7 +27,7 @@
 | ----------- | ----------- | ----------- |
 | EVM合约开发、合约测试、ERC20、多合约间调用 | [Roulette-dApp](https://github.com/chen-qr/Roulette-dApp)  | 轮盘游戏智能合约DApp|
 | 合约事务机制、闪电贷 | [FlashLoanUsage](https://github.com/chen-qr/FlashLoanUsage) | 闪电贷使用示例 | 
-| 重入攻击、前端交易攻击、可预测随机数攻击、权限控制问题、短地址攻击、整数溢出和下溢| [SmartContractSafetyLists](https://github.com/chen-qr/SmartContractSafetyLists) | 智能合约安全示例 |
+| 重入攻击、前端交易攻击、可预测随机数攻击、权限控制问题、短地址攻击、整数溢出和下溢| [SmartContractSafetyLists](https://github.com/chen-qr/SmartContractSafetyLists) | 智能合约安全整理 |
 
 #### 2. Microservice *using Java/SpringBoot*
 
