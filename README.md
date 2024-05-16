@@ -33,7 +33,7 @@
 
 | Key Issues  | Repositories      | Introduction |
 | ----------- | ----------- | ----------- |
-| SpringBoot应用、CI/CD |  [MyBlogServe](https://github.com/chen-qr/MyBlogServe)     | 个人博客后台服务|
+| SpringBoot开发、CI/CD |  [MyBlogServe](https://github.com/chen-qr/MyBlogServe)     | 个人博客后台服务|
 | 服务间通信 |  [SimpleTelegramBot](https://github.com/chen-qr/SimpleTelegramBot)      | Telegram机器人后台，实时接收和响应聊天消息 |
 
 #### 3. Data Warehouse *using Java/Python/SQL/Spark/Hive*
