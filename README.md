@@ -19,13 +19,13 @@
 
 ### IV. My Repositories 个人仓库
 
-<center>
+<div align="center">
 <a href="#1-web3-using-solidityevmhardhat">Web3</a>
 ｜
 <a href="#2-microservice-using-javaspringboot">Microservice</a>
 ｜
 <a href="#3-data-warehouse-using-javapythonsqlsparkhive">Data Warehouse</a>
-</center>
+</div>
 
 *Only for technical learning, no sensitive data, no work content! 仅用于技术学习交流，不涉及任何敏感数据，不涉及任何工作内容！*
 
