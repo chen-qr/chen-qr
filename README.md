@@ -38,7 +38,9 @@
 
 #### 3. Data Warehouse *using Java/Python/SQL/Spark/Hive*
 
-
+| Key Issues  | Repositories      |
+| ----------- | ----------- |
+| 准确性、完整性、一致性、可靠性、及时性、有效性、唯一性、可追溯性等大数据质量问题 |  [DataQualityIssues](https://github.com/chen-qr/DataQualityIssues)     |
 
 #### 4. Data Capturing *using Python*
 
