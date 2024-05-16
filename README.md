@@ -23,7 +23,7 @@
 
 #### 1. Web3 *using Solidity/EVM/Hardhat*
 
-| Key Points  | Repositories  |
+| Key Issues  | Repositories  |
 | ----------- | ----------- |
 | EVM合约开发、合约测试、合约部署、ERC20、多合约间调用 | [Roulette-dApp](https://github.com/chen-qr/Roulette-dApp)  |
 | 重入攻击、抢先交易攻击、可预测随机数攻击、权限控制问题、短地址攻击、整数溢出和下溢等智能合约问题| [SmartContractSafetyLists](https://github.com/chen-qr/SmartContractSafetyLists) |
@@ -31,7 +31,7 @@
 
 #### 2. Microservice *using Java/SpringBoot*
 
-| Key Points  | Repositories      | Introduction |
+| Key Issues  | Repositories      | Introduction |
 | ----------- | ----------- | ----------- |
 | SpringBoot模版 |  [MyBlogServe](https://github.com/chen-qr/MyBlogServe)     | 个人博客后台服务|
 | 服务间通信 |  [InspirationalBot](https://github.com/chen-qr/InspirationalBot)      | Telegram机器人后台，实时接收和响应聊天消息 |
@@ -42,6 +42,6 @@
 
 #### 4. Data Capturing *using Python*
 
-| Key Points  | Repositories      | Introduction |
+| Key Issues  | Repositories      | Introduction |
 | ----------- | ----------- | ----------- |
 | 异步、交易所数据、Uniswap | [CollectCryptoPrice](https://github.com/chen-qr/CollectCryptoPrice) | 从中心化交易所和去中心交易所采集加密货币价格 |
