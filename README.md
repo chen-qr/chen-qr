@@ -34,7 +34,7 @@
 | Key Issues  | Repositories  |
 | ----------- | ----------- |
 | EVM合约开发、合约测试、合约部署、ERC20、多合约间调用 | [Roulette-dApp](https://github.com/chen-qr/Roulette-dApp)  |
-| 重入攻击、抢先交易攻击、可预测随机数攻击、权限控制问题、短地址攻击、整数溢出和下溢等智能合约安全问题| [SmartContractSafetyIssues](https://github.com/chen-qr/SmartContractSafetyIssues) |
+| 重入攻击、抢先交易攻击、可预测随机数攻击、权限控制问题、短地址攻击、整数溢出和下溢6个智能合约安全问题| [SmartContractSafetyIssues](https://github.com/chen-qr/SmartContractSafetyIssues) |
 | 合约事务机制、闪电贷 | [FlashLoanUsage](https://github.com/chen-qr/FlashLoanUsage) |
 
 #### 2. Microservice *using Java/SpringBoot*
