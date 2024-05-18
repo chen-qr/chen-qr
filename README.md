@@ -31,7 +31,7 @@
 <a href="#4-data-warehouse-using-javapythonsqlsparkhive">Data Warehouse</a>
 </div>
 
-#### 1. Web3
+#### 6. Web3
 
 | Key Issues  | Repositories  |
 | ----------- | ----------- |
@@ -39,7 +39,7 @@
 | 合约安全问题：重入攻击、抢先交易攻击、可预测随机数攻击、权限控制问题、短地址攻击、整数溢出和下溢| [SmartContractSafetyIssues](https://github.com/chen-qr/SmartContractSafetyIssues) |
 | 合约事务机制、闪电贷 | [FlashLoanUsage](https://github.com/chen-qr/FlashLoanUsage) |
 
-#### 2. Microservice
+#### 5. Microservice
 
 | Key Issues  | Repositories      | Introduction |
 | ----------- | ----------- | ----------- |
@@ -52,14 +52,14 @@
 | ----------- | ----------- |
 | 数据分析工具：描述性分析、探索性分析、推断性分析、预测性分析 |  [DataAnalysisTools](https://github.com/chen-qr/DataAnalysisTools)     |
 
-#### 4. Data Warehouse
+#### 2. Data Warehouse
 
 | Key Issues  | Repositories      |
 | ----------- | ----------- |
 | 大数据质量问题：准确性、完整性、一致性、可靠性、及时性、有效性、唯一性、可追溯性 |  [BigDataQualityIssues](https://github.com/chen-qr/BigDataQualityIssues)     |
 | 大数据性能问题：数据倾斜、内存不足、查询速度慢、资源竞争、碎片化 |  [BigDataPerformanceIssues](https://github.com/chen-qr/BigDataPerformanceIssues)     |
 
-#### 5. Data Capturing
+#### 1. Data Capturing
 
 | Key Issues  | Repositories      | Introduction |
 | ----------- | ----------- | ----------- |
