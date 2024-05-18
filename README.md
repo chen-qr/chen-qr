@@ -50,7 +50,7 @@
 
 | Key Issues  | Repositories      |
 | ----------- | ----------- |
-| 分析工具：描述性分析、探索性分析、推断性分析、预测性分析 |  [DataAnalysisTools](https://github.com/chen-qr/DataAnalysisTools)     |
+| 数据分析工具：描述性分析、探索性分析、推断性分析、预测性分析 |  [DataAnalysisTools](https://github.com/chen-qr/DataAnalysisTools)     |
 
 #### 4. Data Warehouse *using Java/Python/SQL/Spark/Hive*
 
