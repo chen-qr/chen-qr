@@ -22,13 +22,13 @@
 *Only for technical learning, no sensitive data, no work content! 仅用于技术学习交流，不涉及任何敏感数据，不涉及任何工作内容！*
 
 <div align="center">
-<a href="#1-web3-using-solidityevmhardhat">Web3</a>
+<a href="#6-web3">Web3</a>
 ｜
-<a href="#2-microservice-using-javaspringboot">Microservice</a>
+<a href="#5-microservice">Microservice</a>
 ｜
-<a href="#3-data-mining-using-python">Data Mining</a>
+<a href="#3-data-mining">Data Mining</a>
 ｜
-<a href="#4-data-warehouse-using-javapythonsqlsparkhive">Data Warehouse</a>
+<a href="#2-data-warehouse">Data Warehouse</a>
 </div>
 
 #### 6. Web3
