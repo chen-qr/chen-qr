@@ -36,7 +36,7 @@
 | Key Issues  | Repositories  |
 | ----------- | ----------- |
 | EVM合约开发、合约测试、合约部署、ERC20、多合约间调用 | [Roulette-dApp](https://github.com/chen-qr/Roulette-dApp)  |
-| 重入攻击、抢先交易攻击、可预测随机数攻击、权限控制问题、短地址攻击、整数溢出和下溢6个智能合约安全问题| [SmartContractSafetyIssues](https://github.com/chen-qr/SmartContractSafetyIssues) |
+| 智能合约安全问题：重入攻击、抢先交易攻击、可预测随机数攻击、权限控制问题、短地址攻击、整数溢出和下溢| [SmartContractSafetyIssues](https://github.com/chen-qr/SmartContractSafetyIssues) |
 | 合约事务机制、闪电贷 | [FlashLoanUsage](https://github.com/chen-qr/FlashLoanUsage) |
 
 #### 2. Microservice *using Java/SpringBoot*
@@ -50,13 +50,13 @@
 
 | Key Issues  | Repositories      |
 | ----------- | ----------- |
-| 描述性分析、探索性分析、推断性分析、预测性分析4个分析工具 |  [DataAnalysisTools](https://github.com/chen-qr/DataAnalysisTools)     |
+| 分析工具：描述性分析、探索性分析、推断性分析、预测性分析 |  [DataAnalysisTools](https://github.com/chen-qr/DataAnalysisTools)     |
 
 #### 4. Data Warehouse *using Java/Python/SQL/Spark/Hive*
 
 | Key Issues  | Repositories      |
 | ----------- | ----------- |
-| 准确性、完整性、一致性、可靠性、及时性、有效性、唯一性、可追溯性7个大数据质量问题 |  [BigDataQualityIssues](https://github.com/chen-qr/BigDataQualityIssues)     |
+| 大数据质量问题：准确性、完整性、一致性、可靠性、及时性、有效性、唯一性、可追溯性 |  [BigDataQualityIssues](https://github.com/chen-qr/BigDataQualityIssues)     |
 
 #### 5. Data Capturing *using Python*
 
