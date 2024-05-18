@@ -62,4 +62,4 @@
 
 | Key Issues  | Repositories      |
 | ----------- | ----------- |
-| 在线用户行为日志特点：实时产生、数据量大、事件多、维度多、隐私保护 |  [OnlineUserBehaviourLogIssues](https://github.com/chen-qr/OnlineUserBehaviourLogIssues)     |
+| 在线用户行为日志特点：实时产生、数据量大、上报时机复杂、行为事件多、分析维度多、隐私保护 |  [OnlineUserBehaviourLogIssues](https://github.com/chen-qr/OnlineUserBehaviourLogIssues)     |
