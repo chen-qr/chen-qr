@@ -9,7 +9,7 @@
 | Technology      | Skill |
 | ----------- | ----------- |
 | Programming      | Java, Python, Scala, Solidity, TypeScript, CI/CD, Linux|
-| BigData   | Microservice, Real-Time Computing, Data Warehouse, Data Capturing|
+| BigData   | Microservice, Real-Time Computing, Data Mining, Data Warehouse, Data Capturing|
 | FinTech | Web3 |
 
 ### III. Projects
@@ -26,7 +26,9 @@
 ｜
 <a href="#2-microservice-using-javaspringboot">Microservice</a>
 ｜
-<a href="#3-data-warehouse-using-javapythonsqlsparkhive">Data Warehouse</a>
+<a href="#3-data-mining-using-python">Data Mining</a>
+｜
+<a href="#4-data-warehouse-using-javapythonsqlsparkhive">Data Warehouse</a>
 </div>
 
 #### 1. Web3 *using Solidity/EVM/Hardhat*
@@ -44,13 +46,19 @@
 | SpringBoot开发、CI/CD |  [MyBlogServe](https://github.com/chen-qr/MyBlogServe)     | 个人博客后台服务|
 | 服务间通信 |  [SimpleTelegramBot](https://github.com/chen-qr/SimpleTelegramBot)      | Telegram机器人后台，实时接收和响应聊天消息 |
 
-#### 3. Data Warehouse *using Java/Python/SQL/Spark/Hive*
+#### 3. Data Mining *using Python*
+
+| Key Issues  | Repositories      |
+| ----------- | ----------- |
+| 描述性分析、探索性数据分析、推断性分析、预测性分析4个分析工具 |  [DataAnalysisTools](https://github.com/chen-qr/DataAnalysisTools)     |
+
+#### 4. Data Warehouse *using Java/Python/SQL/Spark/Hive*
 
 | Key Issues  | Repositories      |
 | ----------- | ----------- |
 | 准确性、完整性、一致性、可靠性、及时性、有效性、唯一性、可追溯性7个大数据质量问题 |  [BigDataQualityIssues](https://github.com/chen-qr/BigDataQualityIssues)     |
 
-#### 4. Data Capturing *using Python*
+#### 5. Data Capturing *using Python*
 
 | Key Issues  | Repositories      | Introduction |
 | ----------- | ----------- | ----------- |
