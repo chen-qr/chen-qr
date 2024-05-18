@@ -38,12 +38,12 @@
 | DeFi开发：抽奖、闪电贷 | [DeFi-dev-cases](https://github.com/chen-qr/DeFi-dev-cases) |
 | 智能合约安全问题：重入攻击、抢先交易攻击、可预测随机数攻击、权限控制问题、短地址攻击、整数溢出和下溢| [SmartContractSafetyIssues](https://github.com/chen-qr/SmartContractSafetyIssues) |
 
-#### 5. Microservice
+<!-- #### 5. Microservice
 
 | Key Issues  | Repositories      | Introduction |
 | ----------- | ----------- | ----------- |
 | SpringBoot开发、CI/CD |  [MyBlogServe](https://github.com/chen-qr/MyBlogServe)     | 个人博客后台服务|
-| 服务间通信 |  [SimpleTelegramBot](https://github.com/chen-qr/SimpleTelegramBot)      | Telegram机器人后台，实时接收和响应聊天消息 |
+| 服务间通信 |  [SimpleTelegramBot](https://github.com/chen-qr/SimpleTelegramBot)      | Telegram机器人后台，实时接收和响应聊天消息 | -->
 
 #### 3. Data Mining
 
