@@ -60,6 +60,6 @@
 
 #### 1. Data Capturing
 
-| Key Issues  | Repositories      | Introduction |
-| ----------- | ----------- | ----------- |
-| 异步、交易所数据、Uniswap | [CollectCryptoPrice](https://github.com/chen-qr/CollectCryptoPrice) | 从中心化交易所和去中心交易所采集加密货币价格 |
+| Key Issues  | Repositories      |
+| ----------- | ----------- |
+| 在线用户行为日志特点：实时产生、数据量大、事件多、维度多、隐私保护 |  [OnlineUserBehaviourLogIssues](https://github.com/chen-qr/OnlineUserBehaviourLogIssues)     |
