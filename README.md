@@ -57,6 +57,7 @@
 | Key Issues  | Repositories      |
 | ----------- | ----------- |
 | 大数据质量问题：准确性、完整性、一致性、可靠性、及时性、有效性、唯一性、可追溯性 |  [BigDataQualityIssues](https://github.com/chen-qr/BigDataQualityIssues)     |
+| 大数据性能问题：数据倾斜、内存不足、查询速度慢、资源竞争、碎片化 |  [BigDataPerformanceIssues](https://github.com/chen-qr/BigDataPerformanceIssues)     |
 
 #### 5. Data Capturing *using Python*
 
