@@ -63,3 +63,4 @@
 | Key Issues  | Repositories      |
 | ----------- | ----------- |
 | 线上用户行为日志特点：实时产生、数据量大、上报时机复杂、事件多、维度多、隐私保护 |  [OnlineUserBehaviourLogIssues](https://github.com/chen-qr/OnlineUserBehaviourLogIssues)     |
+| 区块链上数据特点：去中心化、数据源多 |  [BlockchainDataIssues](https://github.com/chen-qr/BlockchainDataIssues)     |
