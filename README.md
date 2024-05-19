@@ -49,6 +49,7 @@
 
 | Key Issues  | Repositories      |
 | ----------- | ----------- |
+| 机器学习工具：决策树、随机森林、XGBoost、孤立森林、K-means、线性回归、逻辑回归 |  [MachineLearningTools](https://github.com/chen-qr/MachineLearningTools)     |
 | 数据分析工具：描述性分析、探索性分析、推断性分析、预测性分析 |  [DataAnalysisTools](https://github.com/chen-qr/DataAnalysisTools)     |
 
 #### 2. Data Warehouse
