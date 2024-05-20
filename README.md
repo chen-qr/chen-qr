@@ -1,8 +1,8 @@
 ### I. About
 
-👋 My name is Alex, as a Senior Engineer at Tencent, I am currently seeking a position in FinTech in Hong Kong.
+👋 My name is Alex, as a Senior Engineer at Tencent, I am currently seeking a position in Hong Kong.
 
-您好，我叫Alex，腾讯高级工程师，目前正在寻找香港FinTech的技术研发工作。
+您好，我叫Alex，腾讯高级工程师，目前正在寻找香港的技术研发工作。
 
 ### II. Skills
 
