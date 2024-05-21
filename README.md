@@ -10,7 +10,7 @@
 | ----------- | ----------- |
 | Programming      | Java, Python, Scala, Solidity, TypeScript, CI/CD, Linux|
 | BigData   | Microservice, Real-Time Computing, Data Mining, Data Warehouse, Data Capturing|
-| FinTech | Web3 |
+| FinTech | Blockchain |
 
 ### III. Projects
 
@@ -22,7 +22,7 @@
 *Only for technical learning, no sensitive data, no work content! 仅用于技术学习交流，不涉及任何敏感数据，不涉及任何工作内容！*
 
 <div align="center">
-<a href="#6-web3">Web3</a>
+<a href="#6-blockchain">Blockchain</a>
 ｜
 <a href="#5-microservice">Microservice</a>
 ｜
@@ -31,7 +31,7 @@
 <a href="#2-data-warehouse">Data Warehouse</a>
 </div>
 
-#### 6. Web3
+#### 6. Blockchain
 
 | Key Issues  | Repositories  |
 | ----------- | ----------- |
