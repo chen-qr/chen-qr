@@ -56,7 +56,7 @@
 
 | Key Issues  | Repositories      |
 | ----------- | ----------- |
-| 大数据组件特点：存储、批处理、流处理、查询检索、可视化 | [BigDataComponentIssues](https://github.com/chen-qr/BigDataComponentIssues) |
+| 大数据组件选择：存储、批处理、流处理、查询检索、可视化 | [BigDataComponentIssues](https://github.com/chen-qr/BigDataComponentIssues) |
 | 大数据质量问题：准确性、完整性、一致性、可靠性、及时性、有效性、唯一性、可追溯性 |  [BigDataQualityIssues](https://github.com/chen-qr/BigDataQualityIssues)     |
 | 大数据性能问题：数据倾斜、内存不足、查询速度慢、资源竞争、碎片化 |  [BigDataPerformanceIssues](https://github.com/chen-qr/BigDataPerformanceIssues)     |
 
