@@ -29,6 +29,8 @@
 <a href="#3-data-mining">Data Mining</a>
 ｜
 <a href="#2-data-warehouse">Data Warehouse</a>
+｜
+<a href="#1-data-capturing">Data Capturing</a>
 </div>
 
 #### 6. Blockchain
