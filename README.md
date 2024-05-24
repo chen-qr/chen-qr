@@ -6,13 +6,13 @@
 
 ### II. Skills
 
+[details](https://github.com/chen-qr/RepoNavigation)
+
 | Technology      | Skill |
 | ----------- | ----------- |
 | Programming      | Java, Python, Scala, Solidity, TypeScript, CI/CD, Linux|
 | BigData   | Microservice, Real-Time Computing, Data Mining, Data Warehouse, Data Capturing|
 | FinTech | Blockchain |
-
-[see more details.](https://github.com/chen-qr/RepoNavigation)
 
 ### III. Projects
 
