@@ -10,7 +10,7 @@
 
 | Technology      | Skill |
 | ----------- | ----------- |
-| Programming      | Java, Python, Solidity, CI/CD, Linux|
+| Programming      | Java, Python, SQL, Scala, Solidity, TypeScript, CI/CD, Linux|
 | BigData   | Microservice, Real-Time Computing, Data Mining, Data Warehouse, Data Capturing|
 | FinTech | Blockchain |
 
