@@ -14,7 +14,7 @@
 | BigData   | Microservice, Real-Time Computing, Data Mining, Data Warehouse, Data Capturing|
 | FinTech | Blockchain |
 
-### III. Projects
+<!-- ### III. Projects
 
 - [Tencent | Built data services for product with 400 million users](https://chenqirong.tech/p-data-platform.html)
-- [Built DApp and won first place at Web3 Hackathon](https://chenqirong.tech/web3-hackathon.html)
+- [Built DApp and won first place at Web3 Hackathon](https://chenqirong.tech/web3-hackathon.html) -->
