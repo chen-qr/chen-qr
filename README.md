@@ -8,7 +8,7 @@
 
 | Technology      | Skill |
 | ----------- | ----------- |
-| Programming      | Java, Python, SQL, Scala, Solidity, TypeScript, CI/CD, Linux|
+| Programming      | Java, Python, SQL, Scala, Solidity, TypeScript, CI/CD, Linux, AWS|
 | BigData   | Microservice, Real-Time Computing, Data Mining, Data Warehouse, Data Capturing|
 | FinTech | Blockchain |
 
